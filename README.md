@@ -19,5 +19,5 @@ The GIF below shows the functionality of the notetaking application.
 5. Commit and push your changes
 
 ## Links
-- [GitHub Repository]() 
+- [GitHub Repository](https://github.com/AdamLSmith1984/Adam-Smith-Note-taker.git) 
 - [Deployed Application]()
