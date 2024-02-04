@@ -10,6 +10,8 @@ In order to use this application, you must have node.js installed on your machin
 
 The GIF below shows the functionality of the notetaking application.
 
+![Note Taker Functionality](./images/Note-taker-preview.gif)
+
 
 ## Installation
 1. Clone the repository to your machine
