@@ -22,4 +22,4 @@ The GIF below shows the functionality of the notetaking application.
 
 ## Links
 - [GitHub Repository](https://github.com/AdamLSmith1984/Adam-Smith-Note-taker.git) 
-- [Deployed Application]()
+- [Deployed Application](https://adam-smith-note-taker-d4f33f2cc909.herokuapp.com/)
